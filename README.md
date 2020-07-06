@@ -1,4 +1,7 @@
 # GamingLoungeDataBase
 Gaming Lounge Database
 
-A simple database made for a buisness that happends to rent booths, systems and sell food. 
+A fullstack web application made for a cafe gaming lounge business. 
+
+Technologies
+HTML, CSS, BOOTSTRAP, PHP and MYSQL
