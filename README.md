@@ -27,6 +27,6 @@ The EER diagram was then converted to a relational diagram.
 From the diagrams created the sql code was generated to create the database.
 ![](Images/sql-code.gif)
 
-#Lessons
+# Lessons
 
 From this project I learned how to work with backend languages. Php queries to the database for verification, data storage and data retrieval. 
